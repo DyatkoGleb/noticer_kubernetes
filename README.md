@@ -1,1 +1,6 @@
-# noticer_kubernetes
+# Noticer kubernetes
+
+Just do it:
+```bash
+./start.sh
+```
